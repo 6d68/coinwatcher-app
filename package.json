@@ -1,0 +1,41 @@
+{
+  "name": "coinwatcher-app",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "flow-bin": "0.47.0",
+    "jest-expo": "~19.0.0",
+    "react-native-dotenv": "^0.1.0",
+    "react-native-scripts": "1.1.0",
+    "react-test-renderer": "16.0.0-alpha.12",
+    "reactotron-react-native": "^1.12.0",
+    "redux-logger": "^3.0.6"
+  },
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "node node_modules/jest/bin/jest.js --watch",
+    "flow": "flow"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "expo": "^19.0.0",
+    "prop-types": "^15.5.10",
+    "react": "16.0.0-alpha.12",
+    "react-native": "^0.46.1",
+    "react-native-action-button": "^2.7.1",
+    "react-native-swipeout": "^2.2.2",
+    "react-native-vector-icons": "^4.2.0",
+    "react-navigation": "^1.0.0-beta.11",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.1",
+    "redux-actions": "^2.2.1",
+    "redux-persist": "^4.8.2",
+    "redux-thunk": "^2.2.0"
+  }
+}

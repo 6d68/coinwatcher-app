@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "sdkVersion": "19.0.0",
+    "slug": "coinwatcher-app",
+    "name": "coinwatcher-app",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.yourappname"
+    },
+    "android": {
+      "package": "com.yourcompany.yourappname"
+    }
+  }
+}
