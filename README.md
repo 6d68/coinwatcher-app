@@ -12,6 +12,5 @@ This project was bootstrapped with [Create React Native App](https://github.com/
 - [x] Networking
 - [x] Debugging
 - [x] Testability
-- [x] Debugging
 - [x] Custom Components
 - [x] Navigation
